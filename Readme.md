@@ -1,6 +1,3 @@
-@settings {
-  font-size: 100;
-}
 **Cotización de criptos en tiempo real**
 
 
