@@ -1,4 +1,3 @@
-**Cotización de criptos en tiempo real**
+## Cotizar criptomonedas en tiempo real
 
-
-![Web screenshot](https://imgur.com/6DiUEGi.png)
+![enter image description here](https://i.imgur.com/6DiUEGi.png)
